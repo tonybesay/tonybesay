@@ -4,7 +4,7 @@ Repo: tonybesay/tonybesay
 -->
 
 <h1 align="center">Hola, soy Tony Mendoza 👋</h1>
-<h2>Full-Stack Web Developer</h2>
+<h2 align="center">Full-Stack Web Developer</h2>
 <p align="center">
   Desarrollador con enfoque práctico en la creación de aplicaciones web completas,
   desde el diseño y el frontend hasta el backend, la base de datos y el despliegue.
