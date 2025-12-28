@@ -4,9 +4,9 @@ Repo: tonybesay/tonybesay
 -->
 
 <h1 align="center">Hola, soy Tony Mendoza 👋</h1>
-
+<h2>Full-Stack Web Developer</h2>
 <p align="center">
-  <strong>Full-Stack Web Developer</strong> con enfoque práctico en la creación de aplicaciones web completas,
+  Desarrollador con enfoque práctico en la creación de aplicaciones web completas,
   desde el diseño y el frontend hasta el backend, la base de datos y el despliegue.
 </p>
 
@@ -118,19 +118,6 @@ Repo: tonybesay/tonybesay
 - Profundizando en **TypeScript** y frontend moderno
 - Mejora de arquitectura, refactors y buenas prácticas
 - Ampliando portfolio con proyectos completos y documentados
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tonybesay&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybesay&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=tonybesay&theme=transparent" />
-</p>
 
 ---
 
