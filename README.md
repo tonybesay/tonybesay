@@ -123,7 +123,7 @@ Repo: tonybesay/tonybesay
 
 ## 🤝 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/antonio-besay-mendoza-hern%C3%A1ndez-83304564/
+- LinkedIn: www.linkedin.com/in/tonybesay
 - Email: tonybesay@gmail.com
 - GitHub: https://github.com/tonybesay
 
